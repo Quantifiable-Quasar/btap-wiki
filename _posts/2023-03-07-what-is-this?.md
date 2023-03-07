@@ -9,8 +9,8 @@ If you want to contribute the link is <https://github.com/Quantifiable-Quasar/bt
 
 Two primary objectives in the near future:
 
-Fill out content (located in tood post)
-Make website pretty 
+1. Fill out content (located in tood post)
+2. Make website pretty 
 
 After that maintainence should not be too hard.
 
