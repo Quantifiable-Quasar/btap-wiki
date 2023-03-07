@@ -1,3 +1,5 @@
+--- title: the website ---
+
 This is a website that will turn into a wiki for our cybersecurity team
 We are in the beginning stages of making this, but we will have it good soon
 If you want to contribute the link is [[https://github.com/Quantifiable-Quasar/btap-wiki]]
