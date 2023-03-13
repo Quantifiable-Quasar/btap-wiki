@@ -1,5 +1,5 @@
 ---
-layouts: default
+layout: default
 title: TODO
 parent: Plans
 nav_order: 1
