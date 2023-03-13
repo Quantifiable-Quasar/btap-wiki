@@ -1,6 +1,8 @@
 ---
-layouts: libdoc/default
-title: "This is my to do list!"
+layouts: default
+title: TODO
+parent: Plans
+nav_order: 1
 ---
 
 Starting list

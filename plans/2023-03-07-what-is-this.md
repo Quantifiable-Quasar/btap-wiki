@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "the website"
+parent: plans_index
 ---
 
 This is a website that will turn into a wiki for our cybersecurity team
